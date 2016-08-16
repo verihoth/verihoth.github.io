@@ -1,7 +1,33 @@
-body {
-    background-color: black;
+body { 
+    background-color: #ffff10;
+    text-align: center;
 }
 
-h1, p {
-    color: gold;
+h1 {
+	font-family: "Futura", serif; color: #7e4885; 
+	font-size: 76px; 
+	font-weight: lighter;
 }
+
+h3 {font-family: "Futura", serif; color: #7e4885; 
+	font-size: 24px; 
+	font-style: italic;
+}
+
+#second {color: green;
+}
+
+ p {font-family: "futura", sans-serif; color: #7e4885; 
+ 	font-size: 16px
+ 	font-weight: lighter; 
+}
+
+.important {color: green;
+}
+
+
+a {font-family: "futura", sans-serif; color: #FF00DB; 
+	font-size: 16px; 
+	text-decoration: overline;
+}
+
