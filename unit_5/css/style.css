@@ -1,0 +1,101 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300|Roboto+Slab:700);
+
+
+body {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-right: 20em;
+    margin-left: 20em;
+    text-align: center;
+
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+    float: center;
+    margin: .50em;
+
+}
+
+h1{
+    font-family: 'Roboto Slab', serif;
+    font-size: 36px;
+    line-height: 2em;
+}
+
+p { 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 2em;
+    margin: .8em;
+}
+
+a {
+    color: black;
+    text-decoration: none}
+
+hr{
+	width: 100%;
+    text-align: center;
+}
+
+
+h2{
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+    line-height: 2em;
+    text-align: center;
+}
+
+
+header{
+    background: #FFED74
+
+}
+
+nav{
+    background:#E8C66A;
+    text-align: center;
+}
+
+aside{
+    background:#FFC675;
+    float: left;
+    width: 20%;
+    text-align: left;
+
+}
+
+ul {
+  list-style: none;
+  margin: 10;
+  padding: 10;
+    font-family: 'Open Sans', sans-serif;   
+    font-size: 16px;
+    line-height: 2em;
+    text-rendering: optimizeLegibility;
+
+}
+
+
+
+article{
+    background: #E89C6C;
+    float: right;
+    width: 80%;
+    text-align: left;
+    min-height: 100%;
+
+}
+
+footer {
+    background: #FF957E
+
+}
+
+
+
+
+
+
